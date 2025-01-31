@@ -1,0 +1,101 @@
+OrderID,Product,Category,Price,Quantity,OrderDate
+1,Desk,Furniture,455.05,10,2024-08-04
+2,Conference Table,Furniture,611.98,8,2024-06-16
+3,Smartwatch,Electronics,251.54,6,2024-10-05
+4,Outdoor Light,Lighting,1897.82,10,2024-05-10
+5,Camera,Electronics,139.8,8,2024-10-02
+6,External Hard Drive,Accessories,641.0,8,2024-01-22
+7,External Hard Drive,Accessories,641.0,4,2024-03-26
+8,Table Lamp,Lighting,371.8,10,2024-07-15
+9,Portable Speaker,Accessories,415.09,8,2024-05-02
+10,Standing Desk,Furniture,1916.44,10,2024-08-06
+11,Mouse,Electronics,1099.43,5,2023-12-26
+12,Desk,Furniture,455.05,10,2024-06-24
+13,Tape Dispenser,Office Supplies,1092.47,3,2024-12-07
+14,Ceiling Light,Lighting,1926.2,6,2023-12-30
+15,Standing Desk,Furniture,1916.44,7,2024-09-03
+16,Office Chair,Furniture,1507.54,6,2024-06-02
+17,Coffee Table,Furniture,1442.62,4,2024-05-19
+18,USB Cable,Accessories,438.74,5,2024-03-19
+19,Stapler,Office Supplies,814.55,5,2023-12-27
+20,USB Cable,Accessories,438.74,9,2024-09-11
+21,Calculator,Office Supplies,1895.86,6,2023-12-31
+22,Reading Lamp,Lighting,1353.69,5,2024-04-11
+23,Monitor,Electronics,842.36,1,2024-07-30
+24,Wardrobe,Furniture,865.74,6,2024-08-18
+25,Standing Desk,Furniture,1916.44,7,2024-11-16
+26,Phone Case,Accessories,929.32,2,2024-01-18
+27,Headphones,Electronics,558.79,1,2024-09-18
+28,Smartphone,Electronics,349.44,10,2024-03-02
+29,Stylus,Accessories,1370.38,10,2024-01-18
+30,Desk,Furniture,455.05,8,2024-02-02
+31,Night Light,Lighting,1727.34,1,2024-03-16
+32,Pendant Light,Lighting,911.43,2,2024-08-25
+33,Reading Lamp,Lighting,1353.69,10,2024-05-11
+34,Desk,Furniture,455.05,4,2024-01-10
+35,Tablet,Electronics,450.78,10,2023-12-13
+36,Stapler,Office Supplies,814.55,2,2023-12-29
+37,Pen,Office Supplies,1183.52,1,2024-09-06
+38,Wardrobe,Furniture,865.74,3,2024-12-05
+39,Keyboard,Electronics,1041.77,1,2024-05-21
+40,Night Light,Lighting,1727.34,4,2024-01-04
+41,Docking Station,Accessories,156.84,10,2024-10-14
+42,Desk Lamp,Lighting,579.59,4,2024-02-17
+43,Whiteboard,Office Supplies,1038.27,5,2024-01-31
+44,Whiteboard,Office Supplies,1038.27,6,2023-12-24
+45,Pendant Light,Lighting,911.43,4,2024-04-02
+46,Folder,Office Supplies,1851.83,6,2024-08-06
+47,Laptop Bag,Accessories,857.53,7,2024-06-19
+48,Smartwatch,Electronics,251.54,2,2024-06-13
+49,Ceiling Light,Lighting,1926.2,5,2024-02-11
+50,Stylus,Accessories,1370.38,1,2024-09-11
+51,Desk Lamp,Lighting,579.59,8,2024-09-14
+52,Side Table,Furniture,215.17,3,2024-02-06
+53,Pendant Light,Lighting,911.43,1,2024-07-27
+54,Portable Speaker,Accessories,415.09,7,2024-02-19
+55,Stylus,Accessories,1370.38,8,2024-01-06
+56,Table Lamp,Lighting,371.8,6,2024-08-11
+57,Paper Ream,Office Supplies,841.32,10,2024-04-21
+58,Mouse,Electronics,1099.43,4,2024-02-03
+59,Markers,Office Supplies,505.47,3,2024-10-30
+60,Phone Case,Accessories,929.32,6,2024-05-30
+61,Outdoor Light,Lighting,1897.82,7,2024-10-30
+62,Floor Lamp,Lighting,248.42,5,2024-10-31
+63,Calculator,Office Supplies,1895.86,10,2023-12-10
+64,Side Table,Furniture,215.17,4,2024-10-18
+65,Laptop Bag,Accessories,857.53,10,2024-07-13
+66,Notebook,Office Supplies,367.22,1,2024-10-22
+67,Mouse,Electronics,1099.43,1,2024-01-22
+68,Filing Cabinet,Furniture,1063.6,9,2024-02-28
+69,Tablet,Electronics,450.78,1,2024-09-27
+70,Desk Lamp,Lighting,579.59,10,2024-04-25
+71,Docking Station,Accessories,156.84,7,2024-10-15
+72,Ceiling Light,Lighting,1926.2,8,2024-06-14
+73,Headphones,Electronics,558.79,9,2024-08-15
+74,Coffee Table,Furniture,1442.62,2,2024-11-08
+75,Tape Dispenser,Office Supplies,1092.47,5,2024-06-20
+76,Standing Desk,Furniture,1916.44,4,2024-08-13
+77,External Hard Drive,Accessories,641.0,6,2024-05-26
+78,Reading Lamp,Lighting,1353.69,2,2024-01-30
+79,USB Cable,Accessories,438.74,4,2023-12-31
+80,Tape Dispenser,Office Supplies,1092.47,1,2024-07-25
+81,Sofa,Furniture,1180.8,1,2024-01-04
+82,Night Light,Lighting,1727.34,1,2024-10-24
+83,Charger,Accessories,1723.35,1,2024-04-06
+84,Tape Dispenser,Office Supplies,1092.47,3,2024-03-10
+85,Conference Table,Furniture,611.98,4,2024-06-14
+86,Office Chair,Furniture,1507.54,7,2024-11-15
+87,Desk Organizer,Office Supplies,439.13,2,2024-01-10
+88,Side Table,Furniture,215.17,2,2024-01-17
+89,Flash Drive,Accessories,664.05,8,2024-02-11
+90,Side Table,Furniture,215.17,3,2024-01-03
+91,LED Bulb,Lighting,263.07,2,2024-02-16
+92,Night Light,Lighting,1727.34,10,2024-01-31
+93,Laptop,Electronics,491.19,5,2024-07-23
+94,Calculator,Office Supplies,1895.86,6,2024-07-22
+95,LED Bulb,Lighting,263.07,8,2024-06-28
+96,Filing Cabinet,Furniture,1063.6,8,2024-01-10
+97,Paper Ream,Office Supplies,841.32,3,2024-11-02
+98,Side Table,Furniture,215.17,5,2024-04-17
+99,Portable Speaker,Accessories,415.09,5,2024-07-11
+100,Phone Case,Accessories,929.32,5,2023-12-27
